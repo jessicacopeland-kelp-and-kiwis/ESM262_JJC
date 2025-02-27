@@ -27,3 +27,8 @@ SJKF_range=function(W,G,HR_minimum=1000,HR_indiv) {
 }
 
 #Make a conflict- JJC 
+
+
+
+
+
