@@ -26,11 +26,5 @@ SJKF_range=function(W,G,HR_minimum=1000,HR_indiv) {
   return(result)
 }
 
-
-##############
-
-# your function looks great! "making a change" for class practice 
-
-##############
-``
+#deleted everything, comments rejected!!! :)
 
